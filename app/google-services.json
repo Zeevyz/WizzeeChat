@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286487903871",
+    "project_id": "wizzee-chatapp",
+    "storage_bucket": "wizzee-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286487903871:android:1bb3d1cb0705c6b90f894a",
+        "android_client_info": {
+          "package_name": "com.example.zeewizchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286487903871-rjdnpglfkaf9qdfgul9odikribdk8i3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDXtGj-OplKECzAHdYZLJzOL7nbH5Ua2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286487903871-rjdnpglfkaf9qdfgul9odikribdk8i3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
