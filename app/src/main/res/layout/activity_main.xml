@@ -12,23 +12,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="Enter Phone Number"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="16dp" />
+        tools:layout_editor_absoluteX="119dp"
+        tools:layout_editor_absoluteY="133dp" />
 
     <EditText
         android:id="@+id/code"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="Enter Code"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="69dp" />
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="197dp" />
 
     <Button
-        android:id="@+id/verify"
+        android:id="@+id/send"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Send Verification Code"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="123dp" />
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="253dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
