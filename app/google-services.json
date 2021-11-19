@@ -7,9 +7,38 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:286487903871:android:1bb3d1cb0705c6b90f894a",
+        "mobilesdk_app_id": "1:286487903871:android:5ee518855bbd458b0f894a",
         "android_client_info": {
-          "package_name": "com.example.wizzeechat"
+          "package_name": "com.wizzee.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286487903871-rjdnpglfkaf9qdfgul9odikribdk8i3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDXtGj-OplKECzAHdYZLJzOL7nbH5Ua2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286487903871-rjdnpglfkaf9qdfgul9odikribdk8i3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286487903871:android:9ed6de2be7c60ffc0f894a",
+        "android_client_info": {
+          "package_name": "com.zeevy.wizzeechat"
         }
       },
       "oauth_client": [
